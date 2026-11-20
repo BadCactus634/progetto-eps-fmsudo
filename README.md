@@ -14,10 +14,10 @@ Il cuore del progetto è un **oggetto monitor** (`synchronized`, `wait()`, `noti
 
 ## Anteprima dell'Applicazione
 
-### 1. Schermata Principale e Catalogo
+### Schermata Principale e Catalogo
 ![Schermata Principale](img/principale.png)
 
-### 2. Simulazione Concorrente in Corso
+### Simulazione Concorrente in Corso
 ![Simulazione in Corso](img/simulazione_in_corso.png)
 
 ---
